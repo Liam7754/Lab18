@@ -1,3 +1,22 @@
 [
-  {"question": "hihi cả nhà tự tạo testset bằng cơm nhé", "ground_truth": "Không kịp tạo luôn"},
+  {"question": "Nhân viên chính thức được nghỉ phép năm bao nhiêu ngày?", "ground_truth": "Nhân viên chính thức được nghỉ phép năm 12 ngày làm việc mỗi năm."},
+  {"question": "Số ngày nghỉ phép năm tối đa là bao nhiêu?", "ground_truth": "Tối đa 20 ngày mỗi năm."},
+  {"question": "Nhân viên thử việc có được nghỉ phép năm không?", "ground_truth": "Không được hưởng nghỉ phép năm trong 60 ngày đầu."},
+  {"question": "Đơn xin nghỉ phép cần gửi trước bao lâu?", "ground_truth": "Ít nhất 3 ngày làm việc trước ngày nghỉ."},
+  {"question": "Nghỉ phép không lương tối đa bao nhiêu ngày mỗi năm?", "ground_truth": "Tối đa 30 ngày mỗi năm."},
+  {"question": "Khi nghỉ ốm cần báo trong bao lâu?", "ground_truth": "Trong vòng 2 giờ kể từ giờ làm việc đầu tiên."},
+  {"question": "Nghỉ thai sản dài bao nhiêu tháng?", "ground_truth": "6 tháng."},
+  {"question": "Nhân viên nam được nghỉ mấy ngày khi vợ sinh con?", "ground_truth": "5 ngày làm việc."},
+  {"question": "Mật khẩu công ty phải dài tối thiểu bao nhiêu ký tự?", "ground_truth": "Tối thiểu 12 ký tự."},
+  {"question": "Mật khẩu phải đổi sau bao nhiêu ngày?", "ground_truth": "Mỗi 90 ngày."},
+  {"question": "Tài khoản bị khoá sau mấy lần đăng nhập sai?", "ground_truth": "Sau 5 lần đăng nhập sai liên tiếp."},
+  {"question": "VPN công ty dùng giao thức gì?", "ground_truth": "WireGuard với mã hóa AES-256."},
+  {"question": "Phiên VPN ngắt sau bao lâu không hoạt động?", "ground_truth": "Sau 8 giờ không hoạt động."},
+  {"question": "Khi mất laptop công ty phải báo trong bao lâu?", "ground_truth": "Trong vòng 1 giờ."},
+  {"question": "Nhân viên có bao lâu để nộp đơn hoàn ứng công tác?", "ground_truth": "Trong vòng 7 ngày làm việc sau khi kết thúc chuyến đi."},
+  {"question": "Công tác phí trong nước cho ăn uống là bao nhiêu mỗi ngày?", "ground_truth": "500.000 VND/ngày."},
+  {"question": "Mua sắm trên 5 triệu cần phê duyệt mấy cấp?", "ground_truth": "3 cấp: trưởng nhóm, trưởng phòng và Giám đốc Tài chính."},
+  {"question": "Đơn mua sắm khẩn cấp xử lý trong bao lâu?", "ground_truth": "Trong 24 giờ với phụ phí 10%."},
+  {"question": "Hoá đơn nhà cung cấp thanh toán vào những ngày nào?", "ground_truth": "Ngày 15 và ngày cuối tháng."},
+  {"question": "Email helpdesk nội bộ là gì?", "ground_truth": "helpdesk@company.vn"}
 ]
